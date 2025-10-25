@@ -18,4 +18,5 @@ I decided that...
 |ios/|front-end, needs a REST-ful BE to talk to|
 |local-be/|local blob-store and REST API to access that BE| 
 |local-web-fe/|full stack. Can be connected to from all clients|
-
+|webapp-be|simple node.JS app... needs a blob store to read from|
+|webapp-fe|simple node.JS app... needs a BE to talk to|

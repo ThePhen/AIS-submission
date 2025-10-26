@@ -1,0 +1,8 @@
+ENV=dev
+
+#Popular, useful examples...
+#ENV=prod
+#ENV=qa
+
+#Maybe gie the env a unique name...
+#ENV=`git rev-parse --short HEAD`
